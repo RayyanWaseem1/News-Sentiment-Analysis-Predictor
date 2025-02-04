@@ -1,4 +1,4 @@
-# Sentiment Analysis Predictor
+# News Sentiment Analysis Predictor
 
 ## Project Overview
 
